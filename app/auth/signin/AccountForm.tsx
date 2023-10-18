@@ -25,7 +25,7 @@ export default function AccountForm({ users }: Props) {
   return (
     <div className="my-2">
       <p>
-        Don't have an account?{" "}
+        Don&apos;t have an account?{" "}
         <button
           onClick={handleGenerateAccount}
           className="opacity-70 underline"
